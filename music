@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <style>
@@ -46,7 +46,7 @@
           <p style="color: #000805;font-style: normal ;font-size: 30px;">old artist</p>
           <a href="https://open.spotify.com/playlist/37i9dQZF1DZ06evO2v1e8N?si=c1629b6b703e4489"><button>Start Listening</button></a>
     
-        </div>
+       
        <body>
         <!-- 
       </section>
